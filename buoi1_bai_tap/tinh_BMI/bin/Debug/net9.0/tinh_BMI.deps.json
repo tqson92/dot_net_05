@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tinh_BMI/1.0.0": {
+        "runtime": {
+          "tinh_BMI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tinh_BMI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

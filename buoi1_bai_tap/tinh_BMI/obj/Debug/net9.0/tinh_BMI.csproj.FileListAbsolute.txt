@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\bin\Debug\net9.0\tinh_BMI.exe
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\bin\Debug\net9.0\tinh_BMI.deps.json
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\bin\Debug\net9.0\tinh_BMI.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\bin\Debug\net9.0\tinh_BMI.dll
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\bin\Debug\net9.0\tinh_BMI.pdb
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.sourcelink.json
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.dll
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\refint\tinh_BMI.dll
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.pdb
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\tinh_BMI.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi1_bai_tap\tinh_BMI\obj\Debug\net9.0\ref\tinh_BMI.dll

@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\bin\Debug\net9.0\mua_trong_nam.exe
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\bin\Debug\net9.0\mua_trong_nam.deps.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\bin\Debug\net9.0\mua_trong_nam.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\bin\Debug\net9.0\mua_trong_nam.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\bin\Debug\net9.0\mua_trong_nam.pdb
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.sourcelink.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\refint\mua_trong_nam.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.pdb
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\mua_trong_nam.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\mua_trong_nam\obj\Debug\net9.0\ref\mua_trong_nam.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "mua_trong_nam/1.0.0": {
+        "runtime": {
+          "mua_trong_nam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mua_trong_nam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

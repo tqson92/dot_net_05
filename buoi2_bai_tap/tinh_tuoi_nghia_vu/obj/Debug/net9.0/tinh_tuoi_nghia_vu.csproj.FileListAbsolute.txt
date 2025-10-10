@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\bin\Debug\net9.0\tinh_tuoi_nghia_vu.exe
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\bin\Debug\net9.0\tinh_tuoi_nghia_vu.deps.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\bin\Debug\net9.0\tinh_tuoi_nghia_vu.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\bin\Debug\net9.0\tinh_tuoi_nghia_vu.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\bin\Debug\net9.0\tinh_tuoi_nghia_vu.pdb
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.sourcelink.json
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\refint\tinh_tuoi_nghia_vu.dll
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.pdb
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\tinh_tuoi_nghia_vu.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi2_bai_tap\tinh_tuoi_nghia_vu\obj\Debug\net9.0\ref\tinh_tuoi_nghia_vu.dll

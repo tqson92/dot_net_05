@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tinh_tuoi_nghia_vu/1.0.0": {
+        "runtime": {
+          "tinh_tuoi_nghia_vu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tinh_tuoi_nghia_vu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\bin\Debug\net8.0\bo_ky_tu_dac_biet.exe
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\bin\Debug\net8.0\bo_ky_tu_dac_biet.deps.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\bin\Debug\net8.0\bo_ky_tu_dac_biet.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\bin\Debug\net8.0\bo_ky_tu_dac_biet.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\bin\Debug\net8.0\bo_ky_tu_dac_biet.pdb
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.sourcelink.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\refint\bo_ky_tu_dac_biet.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.pdb
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\bo_ky_tu_dac_biet.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\bo_ky_tu_dac_biet\obj\Debug\net8.0\ref\bo_ky_tu_dac_biet.dll

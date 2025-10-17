@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bo_ky_tu_dac_biet/1.0.0": {
+        "runtime": {
+          "bo_ky_tu_dac_biet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bo_ky_tu_dac_biet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

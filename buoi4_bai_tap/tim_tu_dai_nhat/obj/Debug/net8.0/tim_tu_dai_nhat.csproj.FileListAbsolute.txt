@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\bin\Debug\net8.0\tim_tu_dai_nhat.exe
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\bin\Debug\net8.0\tim_tu_dai_nhat.deps.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\bin\Debug\net8.0\tim_tu_dai_nhat.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\bin\Debug\net8.0\tim_tu_dai_nhat.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\bin\Debug\net8.0\tim_tu_dai_nhat.pdb
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.sourcelink.json
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\refint\tim_tu_dai_nhat.dll
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.pdb
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\tim_tu_dai_nhat.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi4_bai_tap\tim_tu_dai_nhat\obj\Debug\net8.0\ref\tim_tu_dai_nhat.dll

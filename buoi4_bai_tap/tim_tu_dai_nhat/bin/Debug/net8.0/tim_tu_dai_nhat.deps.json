@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tim_tu_dai_nhat/1.0.0": {
+        "runtime": {
+          "tim_tu_dai_nhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tim_tu_dai_nhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

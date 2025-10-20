@@ -1,0 +1,15 @@
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\bin\Debug\net8.0\bai_tap_string_collection.exe
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\bin\Debug\net8.0\bai_tap_string_collection.deps.json
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\bin\Debug\net8.0\bai_tap_string_collection.runtimeconfig.json
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\bin\Debug\net8.0\bai_tap_string_collection.dll
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\bin\Debug\net8.0\bai_tap_string_collection.pdb
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.AssemblyInfoInputs.cache
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.AssemblyInfo.cs
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.csproj.CoreCompileInputs.cache
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.sourcelink.json
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.dll
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\refint\bai_tap_string_collection.dll
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.pdb
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\bai_tap_string_collection.genruntimeconfig.cache
+D:\GitHub\dot_net_05\buoi5_bai_tap\bai_tap_string_collection\obj\Debug\net8.0\ref\bai_tap_string_collection.dll

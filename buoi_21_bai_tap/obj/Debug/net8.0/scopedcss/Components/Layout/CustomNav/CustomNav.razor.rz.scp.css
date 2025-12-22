@@ -1,0 +1,15 @@
+.custom-nav[b-1qmzs28vig] {
+  .nav-image-container {
+    .nav-image {
+      border: 12px solid #415478;
+    }
+  }
+
+  .nav-link-container[b-1qmzs28vig] {
+    margin-top: 12px;
+
+    .nav-link{
+      font-weight: bold;
+    }
+  }
+}

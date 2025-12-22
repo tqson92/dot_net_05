@@ -1,0 +1,30 @@
+<div class="custom-nav d-flex align-items-center">
+    <div class="container">
+        <div class="row nav-image-container">
+            <div class="col">
+                <img src="https://picsum.photos/200/200" class="nav-image rounded-circle" alt="Responsive image">
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col nav-link-container">
+                @foreach (NavItems navItem in navItems)
+                {
+                    <NavLink class="nav-link text-center text-light" href=@navItem.Url Match="NavLinkMatch.All">
+                        @navItem.Title
+                    </NavLink>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    NavItems[] navItems = {
+new NavItems { Title = "ABOUT", Url = "#1" },
+new NavItems { Title = "EXPERIENCE", Url = "experience" },
+new NavItems { Title = "EDUCATION", Url = "counter" },
+new NavItems { Title = "SKILL", Url = "#4" },
+new NavItems { Title = "INTERESTS", Url = "#5" },
+new NavItems { Title = "AWARDS", Url = "#6" }
+};
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "buoi_21_bai_tap/1.0.0": {
+        "runtime": {
+          "buoi_21_bai_tap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buoi_21_bai_tap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

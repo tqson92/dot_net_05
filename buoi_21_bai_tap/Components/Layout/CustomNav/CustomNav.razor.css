@@ -1,0 +1,15 @@
+.custom-nav {
+  .nav-image-container {
+    .nav-image {
+      border: 12px solid #415478;
+    }
+  }
+
+  .nav-link-container {
+    margin-top: 12px;
+
+    .nav-link{
+      font-weight: bold;
+    }
+  }
+}

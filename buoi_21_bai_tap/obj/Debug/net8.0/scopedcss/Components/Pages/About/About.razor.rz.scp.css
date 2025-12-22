@@ -1,0 +1,27 @@
+.about-container[b-uoliolnyqt] {
+  height: 100%;
+
+  .user-name {
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    .user-last-name {
+      color: #052767;
+    }
+  }
+
+  .user-address[b-uoliolnyqt] {
+    text-transform: uppercase;
+
+    .user-email {
+      color: #052767;
+    }
+  }
+
+  .user-about[b-uoliolnyqt] {
+    font-size: 1.15rem;
+    font-weight: 400;
+    padding-top: 20px;
+  }
+}

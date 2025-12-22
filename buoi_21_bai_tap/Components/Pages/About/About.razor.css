@@ -1,0 +1,27 @@
+.about-container {
+  height: 100%;
+
+  .user-name {
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    .user-last-name {
+      color: #052767;
+    }
+  }
+
+  .user-address {
+    text-transform: uppercase;
+
+    .user-email {
+      color: #052767;
+    }
+  }
+
+  .user-about {
+    font-size: 1.15rem;
+    font-weight: 400;
+    padding-top: 20px;
+  }
+}

@@ -1,0 +1,13 @@
+.experience-history-container {
+  .experience-history-title {
+    text-transform: uppercase;
+  }
+
+  .experience-history-milestone {
+    text-align: end;
+  }
+
+  .experience-history-company {
+    text-transform: uppercase;
+  }
+}

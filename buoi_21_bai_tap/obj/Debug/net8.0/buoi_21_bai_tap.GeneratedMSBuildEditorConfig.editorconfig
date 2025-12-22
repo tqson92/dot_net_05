@@ -22,24 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Award.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBd2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZHVjYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Experience.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlcmllbmNlLnJhem9y
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Interest.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnRlcmVzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Skill.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Routes.razor]
@@ -50,18 +50,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Layout/CustomLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ3VzdG9tTGF5b3V0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-b4w4y1xk3h
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Layout/CustomLayout/MyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ3VzdG9tTGF5b3V0XE15TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-j7umqdls1z
 
 [D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Layout/CustomNav/CustomNav.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ3VzdG9tTmF2XEN1c3RvbU5hdi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-1qmzs28vig
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-7r51ib5olh
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/About/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dFxBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-uoliolnyqt
 
-[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-zy38l9j1jy
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Experience/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlcmllbmNlXEV4cGVyaWVuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v19nlufh82
+
+[D:/GitHub/dot_net_05/buoi_21_bai_tap/Components/Pages/Experience/ExperienceHistory/ExperienceHistory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlcmllbmNlXEV4cGVyaWVuY2VIaXN0b3J5XEV4cGVyaWVuY2VIaXN0b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-021s49cbqh

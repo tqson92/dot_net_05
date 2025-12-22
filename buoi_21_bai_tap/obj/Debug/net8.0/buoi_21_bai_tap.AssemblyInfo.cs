@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("buoi_21_bai_tap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb0896de17676eb57d047f4c7b37ef668d22e1a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c5c70c81e6e86e041a934b19f5aad994ecfddd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("buoi_21_bai_tap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("buoi_21_bai_tap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

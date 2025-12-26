@@ -1,0 +1,20 @@
+p[b-ayuae8vj5g]{
+  margin: 0;
+}
+
+.experience-history-title[b-ayuae8vj5g] {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.experience-history-milestone[b-ayuae8vj5g] {
+  text-align: end;
+  color: #bd5d38;
+}
+
+.experience-history-company[b-ayuae8vj5g] {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: gray;
+}

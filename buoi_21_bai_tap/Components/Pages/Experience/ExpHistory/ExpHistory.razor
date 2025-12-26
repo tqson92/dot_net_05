@@ -1,27 +1,21 @@
 <div class="containter experience-history-container">
     <div class="row">
         <div class="col-6 experience-history-title">
-            <p>@Title</p>
+            <p>@ExpHistoryItem.Title</p>
         </div>
         <div class="col-6 experience-history-milestone">
-            <p>@Milestone</p>
+            <p>@ExpHistoryItem.Milestone</p>
         </div>
         <div class="col-12 experience-history-company">
-            <p>@Company</p>
+            <p>@ExpHistoryItem.Company</p>
         </div>
         <div class="col-8">
-            <p>@Description</p>
+            <p>@ExpHistoryItem.Description</p>
         </div>
     </div>
 </div>
 
 @code {
     [Parameter]
-    public required string Title { get; set; }
-    [Parameter]
-    public required string Milestone { get; set; }
-    [Parameter]
-    public required string Company { get; set; }
-    [Parameter]
-    public required string Description { get; set; }
+    public required ExpHistoryProps ExpHistoryItem { get; set; }
 }

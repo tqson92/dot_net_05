@@ -1,0 +1,46 @@
+@page "/skill"
+
+<PageTitle>Skill</PageTitle>
+
+<div class="skill-container d-flex align-items-center">
+	<div class="containter flex-grow-1">
+		<div class="row align-self-center">
+			<div class="col-12 mb-5">
+				<h1 class="skill-title">Skill</h1>
+			</div>
+			<div class="col-12 mb-2">
+				<p class="text-upercase">Programming Languages & Tools</p>
+			</div>
+			<div class="col-12 mb-5">
+				<ul class="list-inline ">
+					@foreach (string Icon in arrIcons)
+					{
+						<li class="skill-icon-item list-inline-item">
+							<i class="fa-brands @Icon brand-logo-icon" />
+						</li>
+					}
+				</ul>
+			</div>
+			<div class="col-12 mb-2">
+				<p class="text-upercase">Workflow</p>
+			</div>
+			<div class="col-12">
+				<ul class="workflow-list">
+					@foreach (string workflow in arrWorkflow)
+					{
+						<li>
+							<i class="fa-solid fa-check" /> @workflow
+						</li>
+					}
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+@code {
+	string[] arrIcons = ["fa-html5", "fa-css3-alt", "fa-square-js", "fa-facebook-f", "fa-angular", "fa-react", "fa-node-js",
+"fa-sass","fa-less", "fa-wordpress", "fa-gulp" , "fa-grunt", "fa-npm"];
+
+	string[] arrWorkflow = ["Mobile-First, Responsive Design", "Cross Browser Testing & Debugging", "Cross Functional Teams", "Agile Development & Scrum"];
+}

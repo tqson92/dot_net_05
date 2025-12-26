@@ -30,4 +30,5 @@ D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Layou
 D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Layout\CustomLayout\MyLayout.razor.rz.scp.css
 D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Pages\Experience\Experience.razor.rz.scp.css
 D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Pages\About\About.razor.rz.scp.css
-D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Pages\Experience\ExperienceHistory\ExperienceHistory.razor.rz.scp.css
+D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Pages\Experience\ExpHistory\ExpHistory.razor.rz.scp.css
+D:\GitHub\dot_net_05\buoi_21_bai_tap\obj\Debug\net8.0\scopedcss\Components\Pages\Skill\Skill.razor.rz.scp.css

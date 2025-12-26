@@ -1,18 +1,33 @@
 @page "/experience"
-@using buoi_21_bai_tap.Components.Pages.Experience.ExperienceHistory
+@using buoi_21_bai_tap.Components.Pages.Experience.ExpHistory
 
 <PageTitle>Experience</PageTitle>
 
-<div class="experience-container d-flex align-items-center">
-    <div class="containter flex-grow-1">
-        <div class="row align-self-center">
-            <div class="col-12">
-                <h1 class="experience-title">Experience</h1>
-            </div>
-            <div class="col-12">
-                <ExperienceHistory Title="Senior Web Developer" Milestone="March 2013 - Present" Company="Intelitec Solutions"
-                    Description="Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring." />
-            </div>
-        </div>
-    </div>
+<div class="exp-container d-flex align-items-center">
+	<div class="containter flex-grow-1">
+		<div class="row align-self-center">
+			<div class="col-12 mb-4">
+				<h1 class="exp-title">Experience</h1>
+			</div>
+			@foreach (ExpHistoryProps expHistory in expHistories)
+			{
+				<div class="col-12 exp-history-item">
+					<ExpHistory ExpHistoryItem="expHistory" />
+				</div>
+			}
+		</div>
+	</div>
 </div>
+
+@code {
+	ExpHistoryProps[] expHistories = {
+new ExpHistoryProps { Title = "Senior Web Developer", Milestone="March 2013 - Present", Company="Intelitec Solutions",
+Description="Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring." },
+new ExpHistoryProps { Title = "Web Developer", Milestone="December 2011 - March 2013", Company="Intelitec Solutions",
+Description="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line." },
+new ExpHistoryProps { Title = "Junior Web Designer", Milestone="July 2010 - December 2011", Company="Shout! Media Productions",
+Description="Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration." },
+new ExpHistoryProps { Title = "Web Design Intern", Milestone="September 2008 - June 2010", Company="Shout! Media Productions",
+Description="Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI." },
+};
+}

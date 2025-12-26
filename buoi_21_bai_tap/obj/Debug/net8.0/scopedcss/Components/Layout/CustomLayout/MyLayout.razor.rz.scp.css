@@ -14,25 +14,18 @@ main[b-j7umqdls1z] {
 
 .content[b-j7umqdls1z] {
   height: 100%;
-  padding-top: 0;
+  padding: 0 50px;
 }
 
-.content[b-j7umqdls1z] {
-  padding: 0 20px;
-
-  h1,
-  p,
-  span,
-  a {
-    margin: 0;
-    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont,
-      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
-      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-      "Noto Color Emoji";
-  }
+h1[b-j7umqdls1z],
+p[b-j7umqdls1z],
+span[b-j7umqdls1z],
+a[b-j7umqdls1z] {
+  margin: 0;
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-
-
 
 @media (min-width: 641px) {
   .page[b-j7umqdls1z] {

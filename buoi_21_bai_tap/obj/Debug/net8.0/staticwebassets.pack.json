@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "D:\\GitHub\\dot_net_05\\buoi_21_bai_tap\\wwwroot\\css\\CommonCss.css",
+      "PackagePath": "staticwebassets\\css\\CommonCss.css"
+    },
+    {
       "Id": "D:\\GitHub\\dot_net_05\\buoi_21_bai_tap\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

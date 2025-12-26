@@ -2,12 +2,12 @@
     <div class="container">
         <div class="row nav-image-container">
             <div class="col">
-                <img src="https://picsum.photos/200/200" class="nav-image rounded-circle" alt="Responsive image">
+                <img src="https://picsum.photos/200/200" class="nav-image rounded-circle">
             </div>
         </div>
         <div class="row ">
             <div class="col nav-link-container">
-                @foreach (NavItems navItem in navItems)
+                @foreach (NavProps navItem in navItems)
                 {
                     <NavLink class="nav-link text-center text-light" href=@navItem.Url Match="NavLinkMatch.All">
                         @navItem.Title
@@ -19,12 +19,12 @@
 </div>
 
 @code {
-    NavItems[] navItems = {
-new NavItems { Title = "ABOUT", Url = "#1" },
-new NavItems { Title = "EXPERIENCE", Url = "experience" },
-new NavItems { Title = "EDUCATION", Url = "education" },
-new NavItems { Title = "SKILL", Url = "skill" },
-new NavItems { Title = "INTERESTS", Url = "interest" },
-new NavItems { Title = "AWARDS", Url = "award" }
+    NavProps[] navItems = {
+new NavProps { Title = "ABOUT", Url = "#" },
+new NavProps { Title = "EXPERIENCE", Url = "experience" },
+new NavProps { Title = "EDUCATION", Url = "education" },
+new NavProps { Title = "SKILL", Url = "skill" },
+new NavProps { Title = "INTERESTS", Url = "interest" },
+new NavProps { Title = "AWARDS", Url = "award" }
 };
 }

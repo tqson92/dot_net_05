@@ -1,27 +1,48 @@
+p[b-uoliolnyqt]{
+  margin: 0;
+}
+
 .about-container[b-uoliolnyqt] {
   height: 100%;
+}
 
-  .user-name {
-    font-size: 80px;
-    font-weight: bold;
-    text-transform: uppercase;
+.user-name[b-uoliolnyqt] {
+  font-size: 80px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 
-    .user-last-name {
-      color: #052767;
-    }
-  }
+.user-name .user-last-name[b-uoliolnyqt] {
+  color: #052767;
+}
 
-  .user-address[b-uoliolnyqt] {
-    text-transform: uppercase;
+.user-address[b-uoliolnyqt] {
+  text-transform: uppercase;
+}
 
-    .user-email {
-      color: #052767;
-    }
-  }
+.user-address .user-email[b-uoliolnyqt] {
+  color: #052767;
+}
 
-  .user-about[b-uoliolnyqt] {
-    font-size: 1.15rem;
-    font-weight: 400;
-    padding-top: 20px;
-  }
+.user-about-container[b-uoliolnyqt]{
+  margin-bottom: 50px;
+}
+
+.user-about-container .user-about[b-uoliolnyqt] {
+  color: gray;
+  font-size: 1.15rem;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+.brand-logo[b-uoliolnyqt] {
+  margin-right: 6px;
+  padding: 30px 20px 20px 20px;
+  background-color: #052767;
+  border-radius: 50%;
+}
+
+.brand-logo .brand-logo-icon[b-uoliolnyqt] {
+  font-size: 30px;
+  color: white;
 }

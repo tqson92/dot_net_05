@@ -1,0 +1,30 @@
+.skill-container {
+	height: 100%;
+}
+
+.skill-title {
+	font-size: 60px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.skill-icon-item {
+	margin-right: 20px;
+}
+
+.brand-logo-icon {
+	font-size: 50px;
+	color: gray;
+}
+
+.text-upercase {
+	text-transform: uppercase;
+}
+
+.workflow-list {
+	list-style: none;
+}
+
+.workflow-list li{
+	color: gray;
+}
